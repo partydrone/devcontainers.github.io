@@ -784,7 +784,7 @@
   repository: https://github.com/nils-geistmann/devcontainers-features/
   ociReference: ghcr.io/nils-geistmann/devcontainers-features
 - name: OpenFGA CLI
-  maintenance: Andrew Porter
+  maintainer: Andrew Porter
   contact: https://github.com/partydrone/devcontainer/issues
   repository: https://github.com/partydrone/devcontainer
   ociReference: ghcr.io/partydrone/devcontainer/features/openfga-cli
