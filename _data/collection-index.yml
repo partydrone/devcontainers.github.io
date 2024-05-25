@@ -787,5 +787,5 @@
   maintainer: Andrew Porter
   contact: https://github.com/partydrone/devcontainer/issues
   repository: https://github.com/partydrone/devcontainer
-  ociReference: ghcr.io/partydrone/devcontainer/features/openfga-cli
+  ociReference: ghcr.io/partydrone/devcontainer/features
   
